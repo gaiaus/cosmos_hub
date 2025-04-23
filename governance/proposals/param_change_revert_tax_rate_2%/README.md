@@ -6,7 +6,7 @@
 
 ### Summary  
 
-This `param-change` proposal aims to revert the `community_tax` parameter from 10% back to 2%, reinstating the baseline rate that was in effect prior to [**Proposal88](https://www.mintscan.io/cosmos/proposals/88/).
+This `param-change` proposal aims to revert the `community_tax` parameter from 10% back to 2%, reinstating the baseline rate that was in effect prior to [**Proposal 88**](https://www.mintscan.io/cosmos/proposals/88/).
 
 
 ### Parameter Change
