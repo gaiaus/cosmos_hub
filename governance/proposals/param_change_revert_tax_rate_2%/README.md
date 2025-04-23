@@ -20,7 +20,7 @@ This is a proposed parameter change managed by the "distribution module" in the 
 | `x/distribution` | `community_tax` | 0.10 (10%)     | 0.02 (2%)      |
 
 
-If the parameter is set to:
+*If the parameter is set to*:
 
 0.02 → 2% of minted rewards go to the Community Pool
 
