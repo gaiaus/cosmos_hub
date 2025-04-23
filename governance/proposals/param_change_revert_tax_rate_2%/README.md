@@ -79,12 +79,12 @@ Reducing the community tax rate to 2% is a prudent adjustment in the absence of 
 It also establishes a more appropriate baseline for future governance discussions concerning long-term treasury management frameworks and strategic capital deployment from the Community Pool.
 
 
-### Links
+## Links
 
 [**Cosmos Hub Forum Discusssions**](https://forum.cosmos.network/t/proposal-draft-reverse-proposal-88-revert-community-pool-tax-rate-to-2/15397)
 
 
-### **Voting Options**
+## **Voting Options**
 
 
 - **YES** – Supports reducing the Community Pool tax rate from 10% to 2%.
