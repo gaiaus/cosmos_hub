@@ -1,5 +1,7 @@
 # Title: Revert Community Pool Tax Rate to 2%
 
+*Authors*: [Atom Accelerator DAO](https://www.atomaccelerator.com/) & Oversight Committee
+
 ## Summary  
 
 This `param-change` proposal aims to revert the `community_tax` parameter from 10% back to 2%, reinstating the baseline rate that was in effect prior to [**Proposal 88**](https://www.mintscan.io/cosmos/proposals/88/).
