@@ -15,12 +15,9 @@ This is a proposed parameter change managed by the "distribution module" in the 
 
 **Parameter and Proposed Value**
 
-
-|----------------|----------------|---------------|----------------|
-
 | Module         | Parameter      | Current Value | Proposed Value |
-
-| x/distribution | community_tax  | 0.10 (10%)    | 0.02 (2%)      |
+|----------------|----------------|----------------|----------------|
+| x/distribution | community_tax  | 0.10 (10%)     | 0.02 (2%)      |
 
 
 If the parameter is set to:
