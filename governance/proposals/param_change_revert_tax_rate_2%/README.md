@@ -74,7 +74,7 @@ This proposal **does not eliminate or reduce** existing Community Pool funds, wh
 
 ## **Conclusion**  
 
-Reducing the community tax rate to 2% is a prudent adjustment in the absence of an active, Cosmos Hub governance-approved funding mandate. This parameter change helps mitigate inadvertent capital accumulation, improves validator and staker economics, and reinforces fiscal discipline without compromising the Hub’s ability to fund public goods and services independently.
+Reducing the community tax rate to 2% is a prudent adjustment in the absence of an active Cosmos Hub governance-approved funding mandate. This parameter change helps mitigate inadvertent capital accumulation, improves validator and staker economics, and reinforces fiscal discipline without compromising the Hub’s ability to fund public goods and services independently.
 
 It also establishes a more appropriate baseline for future governance discussions concerning long-term treasury management frameworks and strategic capital deployment from the Community Pool.
 
