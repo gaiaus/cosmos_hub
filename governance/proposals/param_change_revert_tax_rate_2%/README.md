@@ -102,12 +102,12 @@ It also establishes a more appropriate baseline for future governance discussion
 ### **Voting Options**
 
 
-- **YES** – Reduce the Community Pool tax rate from 10% to 2%.
+- **YES** – Supports reducing the Community Pool tax rate from 10% to 2%.
+  
+- **NO** – Opposes the proposed parameter change; prefers to maintain the current 10% tax rate.
 
-- **NO** – Retain the current Community Pool 10% tax rate.
+- **ABSTAIN** – Chooses not to take a position, due to a conflict of interest or a wish to participate without expressing a preference.
 
-- **ABSTAIN** – Indicating a conflict of interest; or wish to participate without expressing a preference.
-
-- **NO WITH VETO** – Indicating this proposal is (1) irrelevant to the Cosmos Hub, (2) maliciously and or unjustly harms minority interests, or (3) violates Cosmos Hub governance rules and or norms.
+- **NO WITH VETO** – Opposes the proposal on the grounds it is (1) irrelevant to the Cosmos Hub, (2) maliciously and or unjustly harms minority interests, or (3) violates Cosmos Hub governance rules and or norms.
 
 
