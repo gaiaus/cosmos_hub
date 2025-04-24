@@ -89,7 +89,7 @@ It also establishes a more appropriate baseline for future governance discussion
 
 - **YES** – Supports reducing the Community Pool tax rate from 10% to 2%.
   
-- **NO** – Opposes the proposed parameter change; prefers to maintain the current 10% tax rate.
+- **NO** – Opposes the proposed parameter change; maintain the current 10% tax rate.
 
 - **ABSTAIN** – Chooses not to take a position, due to a conflict of interest or a wish to participate without expressing a preference.
 
