@@ -69,12 +69,12 @@ As of Q1 2025, AADAO has entered "maintenance mode" and has declined to renew or
 
 ## **Clarification on Scope**  
 
-This proposal **does not eliminate or reduce** existing Community Pool funds, which currently total approximately 9.29 million ATOM. Decisions concerning the active balance, usage, governance structure, or potential reforms of the Community Pool should be addressed through subsequent and distinct governance proposals.
+This proposal **does not eliminate or reduce** existing Community Pool funds; which currently holds approximately 9.29 million ATOM. Decisions concerning the active balance, usage, governance structure, or potential reforms of the Community Pool should be addressed through subsequent and distinct governance proposals.
 
 
 ## **Conclusion**  
 
-Reducing the community tax rate to 2% is a prudent adjustment in the absence of an active Cosmos Hub governance-approved funding mandate. This parameter change helps mitigate inadvertent capital accumulation, improves validator and staker economics, and reinforces fiscal discipline without compromising the Hub’s ability to fund public goods and services independently.
+Reducing the community tax rate to 2% is a prudent adjustment in the absence of an active Cosmos Hub governance-ratified funding mandate. This parameter change helps mitigate inadvertent capital accumulation, improves validator and staker economics, and reinforces fiscal discipline without compromising the Hub’s ability to fund public goods and services independently.
 
 It also establishes a more appropriate baseline for future governance discussions concerning long-term treasury management frameworks and strategic capital deployment from the Community Pool.
 
