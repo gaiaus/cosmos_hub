@@ -9,7 +9,7 @@ This `param-change` proposal aims to revert the `community_tax` parameter from 1
 
 ## Parameter Change
 
-This is a proposed parameter change managed by the "distribution module" in the Cosmos SDK.
+The proposed parameter change is managed by the "distribution module" in the Cosmos SDK.
 
 **Parameter**: `community_tax`
 
