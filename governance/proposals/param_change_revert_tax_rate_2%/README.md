@@ -4,8 +4,7 @@
 
 ## Summary  
 
-This `param-change` proposal aims to revert the `community_tax` parameter from 10% back to 2%, reinstating the baseline rate that was in effect prior to [**Proposal 88**](https://www.mintscan.io/cosmos/proposals/88/).
-
+This `param-change` proposal aims to revert the `community_tax` parameter from 10% back to 2%, reinstating the default rate that was in effect prior to [**Proposal 88**](https://www.mintscan.io/cosmos/proposals/88/).
 
 ## Parameter Change
 
@@ -13,7 +12,13 @@ The proposed parameter change is managed by the "distribution module" in the Cos
 
 **Parameter**: `community_tax`
 
-`community_tax`: Defines the portion of block rewards (newly minted ATOM) that are diverted into the Community Pool, before the rest is distributed to stakers and validators. This parameter is modifiable through an on-chain `param-change` proposal.
+`community_tax`: Defines the percentage of block rewards (including transaction fees and inflation rewards) that is diverted to the community pool before the remainder is distributed to validators and delegators. 
+
+The `community_tax` has these key characteristics:
+
+* It must be positive and cannot exceed 1.00 (or 100%).
+* The default value is set to 0.02 (2%) in the distribution module's default parameters. 
+* Cosmos governance can adjust this parameter through on-chain proposals.
 
 **Parameter and Proposed Value**
 
@@ -81,7 +86,8 @@ It also establishes a more appropriate baseline for future governance discussion
 
 ## Links
 
-[**Cosmos Hub Forum Discusssions**](https://forum.cosmos.network/t/proposal-draft-reverse-proposal-88-revert-community-pool-tax-rate-to-2/15397)
+* [**Cosmos Hub Forum Discusssions**](https://forum.cosmos.network/t/proposal-draft-reverse-proposal-88-revert-community-pool-tax-rate-to-2/15397)
+* [Cosmos SDK `x/distribution` module Documents](https://docs.cosmos.network/main/build/modules/distribution)
 
 
 ## **Voting Options**
