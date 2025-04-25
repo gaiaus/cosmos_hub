@@ -4,7 +4,7 @@
 
 ## Summary  
 
-This `param-change` proposal aims to revert the `community_tax` parameter from 10% back to 2%, reinstating the default rate that was in effect prior to [**Proposal 88**](https://www.mintscan.io/cosmos/proposals/88/).
+This `param-change` proposal aims to revert the `community_tax` parameter from 10% back to 2%, reinstating the baseline default rate that was in effect prior to [**Proposal 88**](https://www.mintscan.io/cosmos/proposals/88/).
 
 ## Parameter Change
 
@@ -18,7 +18,7 @@ The `community_tax` has these key characteristics:
 
 * It must be positive and cannot exceed 1.00 (or 100%).
 * The default value is set to 0.02 (2%) in the distribution module's default parameters. 
-* Cosmos governance can adjust this parameter through on-chain proposals.
+* Cosmos governance can adjust this parameter through on-chain `param-change` proposals.
 
 **Parameter and Proposed Value**
 
