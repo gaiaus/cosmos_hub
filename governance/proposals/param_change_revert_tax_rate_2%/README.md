@@ -1,6 +1,6 @@
 # Title: Revert Community Pool Tax Rate to 2%
 
-*Authors*: [Atom Accelerator DAO](https://www.atomaccelerator.com/) & Oversight Committee
+*Authors*: [Atom Accelerator DAO & Oversight Committee](https://www.atomaccelerator.com/) 
 
 ## Summary  
 
@@ -93,6 +93,6 @@ It also establishes a more appropriate baseline for future governance discussion
 
 - **ABSTAIN** – Chooses not to take a position, due to a conflict of interest or a wish to participate without expressing a preference.
 
-- **NO WITH VETO** – Opposes the proposal on the grounds it is (1) irrelevant to the Cosmos Hub, (2) maliciously and or unjustly harms minority interests, or (3) violates Cosmos Hub governance rules and or norms.
+- **NO WITH VETO** – Opposes the proposal on the grounds it is (1) irrelevant to the Cosmos Hub, (2) malicious and or unjustly harms minority interests, or (3) violates Cosmos Hub governance rules and or norms.
 
 
