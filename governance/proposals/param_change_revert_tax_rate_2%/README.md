@@ -16,7 +16,7 @@ The proposed parameter change is managed by the "distribution module" in the Cos
 
 The `community_tax` has these key characteristics:
 
-* It must be positive and cannot exceed 1.00 (or 100%).
+* It must be greater than 0 and less than or equal to 1.00 (or 100%).
 * The default value is set to 0.02 (2%) in the distribution module's default parameters. 
 * Cosmos governance can adjust this parameter through on-chain `param-change` proposals.
 
