@@ -36,7 +36,7 @@ The `community_tax` has these key characteristics:
 
 ## Background  
 
-[**Proposal 88**](https://www.mintscan.io/cosmos/proposals/88/) raised the community tax from 2% to 10% to enable long-term funding of the **Atom Accelerator DAO (AADAO)** and similar initiatives. This tax increase facilitated allocations of 588,000 ATOM via [**Proposal 95**](https://www.mintscan.io/cosmos/proposals/95/), and an additional 975,811 ATOM (plus a 100,000 ATOM bonus) via [**Proposal 865**](https://www.mintscan.io/cosmos/proposals/865/).
+[**Proposal 88**](https://www.mintscan.io/cosmos/proposals/88/) raised the community tax from 2% to 10% to enable long-term funding of the **Atom Accelerator DAO (AADAO)** and similar initiatives. This tax increase facilitated allocations of 588,000 ATOM via [**Proposal 95**](https://www.mintscan.io/cosmos/proposals/95/), and an additional 975,811 ATOM (plus 100,000 bonus ATOM) via [**Proposal 865**](https://www.mintscan.io/cosmos/proposals/865/).
 
 
 As of Q1 2025, AADAO has entered "maintenance mode" and has declined to renew or revise its mandate. In view of these circumstances, the justification for maintaining a 10% tax no longer applies.
@@ -74,14 +74,14 @@ As of Q1 2025, AADAO has entered "maintenance mode" and has declined to renew or
 
 ## **Clarification on Scope**  
 
-This proposal **does not eliminate or reduce** existing Community Pool funds; which currently holds approximately 9.29 million ATOM. Decisions concerning the active balance, usage, governance structure, or potential reforms of the Community Pool should be addressed through subsequent and separate governance proposals.
+This proposal **does not eliminate or reduce** existing Community Pool funds; which currently holds approximately 9.37 million ATOM. Decisions concerning the active balance, usage, governance structure, or potential reforms of the Community Pool should be addressed through subsequent and separate governance proposals.
 
 
 ## **Conclusion**  
 
-Reducing the community tax rate to 2% is a prudent adjustment in the absence of an active, overnance-ratified funding mandate/s for the Cosmos Hub. This parameter change helps mitigate inadvertent capital accumulation, improves validator and staker economics, and reinforces fiscal discipline without compromising the Hub’s ability to fund public goods and services independent of its founding organizations and teams.
+Reducing the community tax rate to 2% is a prudent adjustment in the absence of an active, governance-ratified funding mandate/s for the Cosmos Hub. This parameter change helps mitigate inadvertent capital accumulation, improves validator and staker economics, and strengthens fiscal discipline; while preserving the Hub’s ability to fund public goods and services independently of its founding organizations and core teams. 
 
-It also sets a more appropriate baseline for future governance discussions concerning long-term treasury management and strategic capital deployment from the Community Pool.
+It also sets a more appropriate baseline to guide future governance discussions concerning long-term treasury management and strategic capital deployment from the Community Pool.
 
 
 ## Links
