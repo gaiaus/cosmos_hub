@@ -55,7 +55,7 @@ As of Q1 2025, AADAO has entered "maintenance mode" and has declined to renew or
 
 3. **Decouple Tax Policy from Broader Governance Discussions**  
 
-   The Community Pool tax rate should reflect the network’s actual operational needs; not serve as a default placeholder for unresolved Treasury discussions or opportunistic funding demands.
+   The Community Pool tax rate should reflect the network’s actual operational needs, not serve as a default placeholder for unresolved Treasury discussions or opportunistic funding demands.
 
 
 4. **Preserve Hub Autonomy with Fiscal Discipline**  
