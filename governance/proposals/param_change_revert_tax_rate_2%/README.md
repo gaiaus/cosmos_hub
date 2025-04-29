@@ -74,12 +74,12 @@ As of Q1 2025, AADAO has entered "maintenance mode" and has declined to renew or
 
 ## **Clarification on Scope**  
 
-This proposal **does not eliminate or reduce** existing Community Pool funds; which currently holds approximately 9.37 million ATOM. Decisions concerning the active balance, usage, governance structure, or potential reforms of the Community Pool should be addressed through subsequent and separate governance proposals.
+This proposal **does not eliminate or reduce** existing Community Pool funds, which currently holds approximately 9.37 million ATOM. Decisions concerning the active balance, usage, governance structure, or potential reforms of the Community Pool should be addressed through subsequent and separate governance proposals.
 
 
 ## **Conclusion**  
 
-Reducing the community tax rate to 2% is a prudent adjustment in the absence of an active, governance-ratified funding mandate/s for the Cosmos Hub. This parameter change helps mitigate inadvertent capital accumulation, improves validator and staker economics, and strengthens fiscal discipline; while preserving the Hub’s ability to fund public goods and services independently of its founding organizations and core teams. 
+Reducing the community tax rate to 2% is a prudent adjustment in the absence of an active, governance-ratified funding mandate or mandates for the Cosmos Hub. This parameter change helps mitigate inadvertent capital accumulation, improves validator and staker economics, and strengthens fiscal discipline, while preserving the Hub’s ability to fund public goods and services independently of its founding organizations and core teams. 
 
 It also sets a more appropriate baseline to guide future governance discussions concerning long-term treasury management and strategic capital deployment from the Community Pool.
 
@@ -93,9 +93,9 @@ It also sets a more appropriate baseline to guide future governance discussions 
 ## **Voting Options**
 
 
-- **YES** – Supports the proposed parameter change; reducing the Community Pool tax rate from 10% to 2%.
+- **YES** – Supports the proposed parameter change, reducing the Community Pool tax rate from 10% to 2%.
   
-- **NO** – Opposes the proposed parameter change; supports maintaining the Community Pool tax rate at 10%.
+- **NO** – Opposes the proposed parameter change, supports maintaining the Community Pool tax rate at 10%.
 
 - **ABSTAIN** – Chooses not to take a position, due to a conflict of interest or a wish to participate without expressing a preference.
 
