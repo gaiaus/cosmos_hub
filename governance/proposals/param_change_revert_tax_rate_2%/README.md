@@ -4,21 +4,21 @@
 
 ## Summary  
 
-This `param-change` proposal aims to revert the `community_tax` parameter from 10% (0.10) back to 2% (0.02), reinstating the baseline default rate that was in effect prior to [**Proposal 88**](https://www.mintscan.io/cosmos/proposals/88/).
+This `param-change` proposal aims to revert the `community_tax` parameter from 10% (0.10) to 2% (0.02), reinstating the baseline default rate that was in effect prior to [**Proposal 88**](https://www.mintscan.io/cosmos/proposals/88/).
 
 ## Parameter Change
 
-The proposed parameter change is managed by the "distribution module" in the Cosmos SDK.
+The proposed change affects the "distribution module" in the Cosmos SDK.
 
 **Parameter**: `community_tax`
 
-`community_tax`: Defines the percentage of block rewards (including transaction fees and inflation rewards) that is diverted to the community pool before the remainder is distributed to validators and delegators. 
+`community_tax`: Defines the percentage of block rewards (including transaction fees and inflation rewards) that is allocated to the community pool before the remainder is distributed to validators and delegators.
 
 The `community_tax` has these key characteristics:
 
-* The value must be greater than 0 and less than or equal to 1.00 (or 100%).
+* The value must be greater than 0 and less than or equal to 1.00 (100%).
 * The default value is set to 0.02 (2%) in the distribution module's default parameters. 
-* Cosmos governance can adjust this parameter through on-chain `param-change` proposals.
+* Cosmos Hub governance can adjust this parameter through on-chain `param-change` proposals.
 
 **Parameter and Proposed Value**
 
@@ -55,15 +55,15 @@ As of Q1 2025, AADAO has entered "maintenance mode" and has declined to renew or
 
 3. **Decouple Tax Policy from Broader Governance Discussions**  
 
-   The Community Pool tax rate should reflect the network’s actual operational needs; not serve as a catch-all for opportunism or act as a default placeholder for unresolved Treasury discussions and decisions.
+   The Community Pool tax rate should reflect the network’s actual operational needs; not serve as a default placeholder for unresolved Treasury discussions or opportunistic funding demands.
 
 
 4. **Preserve Hub Autonomy with Fiscal Discipline**  
 
-   A 2% tax rate maintains a credible funding stream while keeping governance of the Hub's public resources independent, sovereign, tractable and reasonable.
+   A 2% tax rate maintains a credibly decentralized funding stream while keeping governance of the Hub's public resources **independent**, **sovereign**, **manageable** and **reasonable**.
 
 
-5. **Give More to Stakers**  
+5. **Return More to Stakers**  
 
    Assuming ~9.6 ATOM minted per block and ~4.36 million blocks/year:
 
@@ -74,14 +74,14 @@ As of Q1 2025, AADAO has entered "maintenance mode" and has declined to renew or
 
 ## **Clarification on Scope**  
 
-This proposal **does not eliminate or reduce** existing Community Pool funds; which currently holds approximately 9.29 million ATOM. Decisions concerning the active balance, usage, governance structure, or potential reforms of the Community Pool should be addressed through subsequent and distinct governance proposals.
+This proposal **does not eliminate or reduce** existing Community Pool funds; which currently holds approximately 9.29 million ATOM. Decisions concerning the active balance, usage, governance structure, or potential reforms of the Community Pool should be addressed through subsequent and separate governance proposals.
 
 
 ## **Conclusion**  
 
-Reducing the community tax rate to 2% is a prudent adjustment in the absence of an active Cosmos Hub governance-ratified funding mandate. This parameter change helps mitigate inadvertent capital accumulation, improves validator and staker economics, and reinforces fiscal discipline without compromising the Hub’s ability to fund public goods and services independently.
+Reducing the community tax rate to 2% is a prudent adjustment in the absence of an active, overnance-ratified funding mandate/s for the Cosmos Hub. This parameter change helps mitigate inadvertent capital accumulation, improves validator and staker economics, and reinforces fiscal discipline without compromising the Hub’s ability to fund public goods and services independent of its founding organizations and teams.
 
-It also establishes a more appropriate baseline for future governance discussions concerning long-term treasury management frameworks and strategic capital deployment from the Community Pool.
+It also sets a more appropriate baseline for future governance discussions concerning long-term treasury management and strategic capital deployment from the Community Pool.
 
 
 ## Links
@@ -93,12 +93,12 @@ It also establishes a more appropriate baseline for future governance discussion
 ## **Voting Options**
 
 
-- **YES** – Supports reducing the Community Pool tax rate from 10% to 2%.
+- **YES** – Supports the proposed parameter change; reducing the Community Pool tax rate from 10% to 2%.
   
-- **NO** – Opposes the proposed parameter change; maintain the current 10% tax rate.
+- **NO** – Opposes the proposed parameter change; supports maintaining the Community Pool tax rate at 10%.
 
 - **ABSTAIN** – Chooses not to take a position, due to a conflict of interest or a wish to participate without expressing a preference.
 
-- **NO WITH VETO** – Opposes the proposal on the grounds it is (1) irrelevant to the Cosmos Hub, (2) malicious and or unjustly harms minority interests, or (3) violates Cosmos Hub governance rules and or norms.
+- **NO WITH VETO** – Opposes the proposed parameter change on the grounds it is (1) irrelevant to the Cosmos Hub, (2) malicious and or unjustly harms minority interests, or (3) violates Cosmos Hub governance rules and or norms.
 
 
