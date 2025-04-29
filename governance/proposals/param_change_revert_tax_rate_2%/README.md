@@ -45,8 +45,9 @@ As of Q1 2025, AADAO has entered "maintenance mode" and has declined to renew or
 ## Rationale for Reversion to 2%
 
 
-1. **Original Purpose of Tax Rate Increase No Longer Applies**  
+1. **The Circumstances That Justified the Tax Rate Increase Are No Longer Valid**  
 
+   With the AADAO's funding mandate approaching an imminent end, the rationale and need for sustaining a 10% tax rate no longer hold.
 
 2. **Avoid Capital Oversupply and Misallocation**  
 
