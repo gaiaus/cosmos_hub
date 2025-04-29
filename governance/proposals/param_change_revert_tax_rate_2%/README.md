@@ -86,7 +86,7 @@ It also establishes a more appropriate baseline for future governance discussion
 
 ## Links
 
-* [**Cosmos Hub Forum Discusssions**](https://forum.cosmos.network/t/proposal-draft-reverse-proposal-88-revert-community-pool-tax-rate-to-2/15397)
+* [**Cosmos Hub Forum Discussions**](https://forum.cosmos.network/t/proposal-draft-reverse-proposal-88-revert-community-pool-tax-rate-to-2/15397)
 * [**Cosmos SDK `x/distribution` module Documents**](https://docs.cosmos.network/main/build/modules/distribution)
 
 
