@@ -38,16 +38,14 @@ The `community_tax` has these key characteristics:
 
 [**Proposal 88**](https://www.mintscan.io/cosmos/proposals/88/) raised the community tax from 2% to 10% to enable long-term funding of the **Atom Accelerator DAO (AADAO)** and similar initiatives. This tax increase facilitated allocations of 588,000 ATOM via [**Proposal 95**](https://www.mintscan.io/cosmos/proposals/95/), and an additional 975,811 ATOM (plus 100,000 bonus ATOM) via [**Proposal 865**](https://www.mintscan.io/cosmos/proposals/865/).
 
-
-As of Q1 2025, AADAO has entered "maintenance mode" and has declined to renew or revise its mandate. In view of these circumstances, the justification for maintaining a 10% tax no longer applies.
+As of Q1 2025, AADAO has entered "maintenance mode" and has declined to renew or revise its mandate; the conditions that warranted the 10% tax rate increase have become obsolete. 
 
 
 ## Rationale for Reversion to 2%
 
-
 1. **The Circumstances That Justified the Tax Rate Increase Are No Longer Valid**  
 
-   With the AADAO's funding mandate approaching an imminent end, the rationale and need for sustaining a 10% tax rate no longer hold.
+   As the AADAO’s funding mandate approaches its end, the basis for sustaining a 10% tax rate has ceased to be relevant.
 
 2. **Avoid Capital Oversupply and Misallocation**  
 
@@ -94,7 +92,7 @@ It also sets a more appropriate baseline to guide future governance discussions 
 ## **Voting Options**
 
 
-- **YES** – Supports the proposed parameter change, reducing the Community Pool tax rate from 10% to 2%.
+- **YES** – Supports the proposed parameter change, reducing the Community Pool tax rate to 2%.
   
 - **NO** – Opposes the proposed parameter change, supports maintaining the Community Pool tax rate at 10%.
 
