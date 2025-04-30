@@ -12,7 +12,7 @@ The proposed change affects the "distribution module" in the Cosmos SDK.
 
 **Parameter**: `community_tax`
 
-`community_tax`: Defines the percentage of block rewards (including transaction fees and inflation rewards) that is allocated to the community pool before the remainder is distributed to validators and delegators.
+`community_tax`: Defines the percentage of block rewards (including transaction fees and inflation rewards) that is allocated to the Community Pool before the remainder is distributed to validators and delegators.
 
 The `community_tax` has these key characteristics:
 
@@ -73,7 +73,7 @@ As of Q1 2025, AADAO has entered "maintenance mode" and has declined to renew or
 
 ## **Clarification on Scope**  
 
-This proposal **does not eliminate or reduce** existing Community Pool funds, which currently holds approximately 9.37 million ATOM. Decisions concerning the active balance, usage, governance structure, or potential reforms of the Community Pool should be addressed through subsequent and separate governance proposals.
+This proposal **does not eliminate or reduce** existing Community Pool funds, which currently hold, approximately 9.37 million ATOM. Decisions concerning the **active balance**, **use**, **governance structure**, or **potential reforms** of the Community Pool should be addressed through subsequent and separate governance proposals.
 
 
 ## **Conclusion**  
