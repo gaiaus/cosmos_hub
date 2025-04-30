@@ -1,15 +1,21 @@
 {
   "messages": [
+   {
+  "type": "cosmos-sdk/ParameterChangeProposal",
+  "title": "Revert Community Pool Tax Rate to 2%",
+  "description": "<<< full markdown content here >>>",
+  "changes": [
     {
-      "@type": "/cosmos.params.v1beta1.MsgUpdateParams",
-      "authority": "cosmos10d07y265gmmuvt4z0w9aw880jnsr700j6zn9kn",
-      "params": {
-        "community_tax": "0.02"
-      },
-      "subspace": "distribution"
+      "subspace": "distribution",
+      "key": "communitytax",
+      "value": "0.02"
     }
   ],
-  "metadata": "",
+  "deposit": "500000000uatom",
+  "proposer": "cosmos1trw7twjv4mqt0kwwysr4ad9njyh26y65m63qct"
+}
+  ],
+  "metadata": "https://forum.cosmos.network/t/revert-community-tax-to-2-proposal/15397",
   "deposit": "500000000uatom",
   "title": "Revert Community Pool Tax Rate to 2%",
   "summary": "This proposal aims to revert the community_tax parameter from 10% back to 2%, reinstating the baseline default rate that was in effect prior to Proposal 88.",
