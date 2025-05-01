@@ -4,7 +4,7 @@
    "@type": "/cosmos.distribution.v1beta1.MsgUpdateParams",
    "authority": "cosmos10d07y265gmmuvt4z0w9aw880jnsr700j6zn9kn",
    "params": {
-    "community_tax": "0.0200000000000000000",
+    "community_tax": "0.020000000000000000",
     "base_proposer_reward": "0.000000000000000000",
     "bonus_proposer_reward": "0.000000000000000000",
     "withdraw_addr_enabled": true
